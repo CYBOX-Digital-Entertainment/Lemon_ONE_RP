@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Lemon one Addon",
+		"description": "by Lemon7679",
+		"uuid": "f0e60ab8-19e8-419c-a9f1-3a84efff2515",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1, 
+			20,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "834b94af-588f-479d-9648-9e6222280e0e",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "121abcd5-2b08-46c4-845a-04247d699b08"
+		}
+	]
+}
