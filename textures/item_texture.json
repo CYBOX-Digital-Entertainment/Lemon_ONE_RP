@@ -6,5 +6,10 @@
 	"left_signal_on":{"textures":"textures/items/left_signal_on.png"},
 	"headlight_on":{"textures":"textures/items/headlight_on.png"},
 	"headlight_off":{"textures":"textures/items/headlight_off.png"},
-	"left_signal_off":{"textures":"textures/items/left_signal_off.png"}
+	"left_signal_off":{"textures":"textures/items/left_signal_off.png"},
+	"speed0":{"textures":"textures/items/speed0.png"},
+	"speed1":{"textures":"textures/items/speed1.png"},
+	"speed2":{"textures":"textures/items/speed2.png"},
+	"speed3":{"textures":"textures/items/speed3.png"},
+	"speed4":{"textures":"textures/items/speed4.png"}
 }}
