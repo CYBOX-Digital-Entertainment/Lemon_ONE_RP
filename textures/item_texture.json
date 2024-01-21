@@ -10,6 +10,7 @@
 	"bonnet_close":{"textures":"textures/items/bonnet_close.png"},
 	"bonnet_open":{"textures":"textures/items/bonnet_open.png"},
 	"car_off":{"textures":"textures/items/car_off.png"},
+	"siren":{"textures":"textures/items/siren.png"},
 	"car_on":{"textures":"textures/items/car_on.png"},
 	"get_car":{"textures":"textures/items/get_car.png"},
 	"speed0":{"textures":"textures/items/speed0.png"},
