@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Lemon one Addon",
-		"description": "by Lemon7679",
+		"name": "pack.name",
+		"description": "pack.description",
 		"uuid": "f0e60ab8-19e8-419c-a9f1-3a84efff2515",
 		"version": [
 			1,
