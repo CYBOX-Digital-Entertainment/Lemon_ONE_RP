@@ -1,8 +1,7 @@
 ﻿pack.name=Lemon ONE - Vehicle System operation : RP (Beta, Confidential)
 pack.description=Add-on by CYBOX, Feat. Lemon7679
 
-car.id=Registered Vehicle ID
-car.door=The Driver's Door
+car.door=§rThe Driver's Door
 car.door_open_notice=Please do not hold the key for a while when you get in the vehicle.
 car.bonnet=§rTrunk
 car.ui_title=§rLemon ONE - Vehicle System operation
