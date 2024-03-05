@@ -1,13 +1,15 @@
 ﻿pack.name=Lemon ONE - Vehicle System operation : RP (Beta, Confidential)
 pack.description=Add-on by CYBOX, Feat. Lemon7679
 
-car.id=Registered Vehicle ID
-car.door=The Driver's Door
+car.door_open=§rThe Driver's Door [ §aopen§r ]
+car.door_close=§rThe Driver's Door [ §cclose§r ]
 car.door_open_notice=Please do not hold the key for a while when you get in the vehicle.
-car.bonnet=§rBoot
+action.hint.exit.cybox:dw_tosca=To use the control UI, right-click or long touch the blank space on the screen.
+car.bonnet_open=§rBoot [ §aopen§r ]
+car.bonnet_close=§rBoot  [ §cclose§r ]
 car.ui_title=§rLemon ONE - Vehicle System operation
 car.on=§rStart
-car.off=§rStart
+car.off=§rExit
 car.at=§rAutomatic Transmission
 car.at_notice_n=In automatic transmission N mode, The vehicle cannot be moved. Please change to another mode to move the vehicle.
 car.at_notice_p_r=In automatic transmission P and R mode, the vehicle speed is limited slowly, please change to D mode to adjust the speed.
